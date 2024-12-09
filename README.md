@@ -8,8 +8,8 @@
 
 1. Análisis financiero de BTC-USD - Backtesting - EMA
 
-   - [Encontrando la mejor EMA para BTC](/notebooks/0.2_EDA_cardiovascular_analysis/0.1_missing_data_analysis.ipynb)
-   - [Backtesting BTC-USD y análisis financiero](/notebooks/0.2_EDA_cardiovascular_analysis/0.2_EDA.ipynb)
+   - [Encontrando la mejor EMA para BTC](/notebooks/0.3_EDA_finance_BTC/0.1_analysis_EMA_BTC.ipynb)
+   - [Backtesting BTC-USD y análisis financiero](/notebooks/0.3_EDA_finance_BTC/0.2_backtesting_EMA_BTC.ipynb)
 
 1. Analisis de la base de datos de Pinguinos
    - [Conteo y validación de datos.](/notebooks/0.1-EDA-penguins/0.1_count_validation_data.ipynb)
