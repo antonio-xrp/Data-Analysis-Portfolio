@@ -11,6 +11,10 @@
    - [Encontrando la mejor EMA para BTC](/notebooks/0.3_EDA_finance_BTC/0.1_analysis_EMA_BTC.ipynb)
    - [Backtesting BTC-USD y análisis financiero](/notebooks/0.3_EDA_finance_BTC/0.2_backtesting_EMA_BTC.ipynb)
 
+1. Análisis comparativo de BTC-USD con el INDEX Miedo / codiccia
+
+   - [Análisis comparativo BTC-UD / Fear & Greed Index](/notebooks/0.4_fear_&_greed_btc/0.1_fear_&_greed_btc.ipynb)
+
 1. Analisis de la base de datos de Pinguinos
    - [Conteo y validación de datos.](/notebooks/0.1-EDA-penguins/0.1_count_validation_data.ipynb)
    - [Análisis estadístico.](/notebooks/0.1-EDA-penguins/0.2_statistic_analysis.ipynb)
