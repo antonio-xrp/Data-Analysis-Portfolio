@@ -15,6 +15,10 @@
 
    - [Análisis comparativo BTC-UD / Fear & Greed Index](/notebooks/0.4_fear_&_greed_btc/0.1_fear_&_greed_btc.ipynb)
 
+1. Análisis de las l2 de Ethereum
+
+   - [Retorno anual y máximas caidas de los principales tokens l2 de Eth](/notebooks/0.5_Analysis_L2_ETH/0.1_returns_drawdown_l2.ipynb)
+
 1. Analisis de la base de datos de Pinguinos
    - [Conteo y validación de datos.](/notebooks/0.1-EDA-penguins/0.1_count_validation_data.ipynb)
    - [Análisis estadístico.](/notebooks/0.1-EDA-penguins/0.2_statistic_analysis.ipynb)
