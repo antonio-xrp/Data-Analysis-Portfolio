@@ -14,10 +14,17 @@
 1. Análisis comparativo de BTC-USD con el INDEX Miedo / codiccia
 
    - [Análisis comparativo BTC-UD / Fear & Greed Index](/notebooks/0.4_fear_&_greed_btc/0.1_fear_&_greed_btc.ipynb)
+   - [Dashboard](/notebooks/0.4_fear_&_greed_btc/Fear_&_greed_BTC.png)
 
 1. Análisis de las l2 de Ethereum
 
    - [Retorno anual y máximas caidas de los principales tokens l2 de Eth](/notebooks/0.5_Analysis_L2_ETH/0.1_returns_drawdown_l2.ipynb)
+   - [Dashboard](/notebooks/0.5_Analysis_L2_ETH/Rendimiento_L2_vs_drawdown.png)
+
+1. Rendimiento anual vs Drawdown Nasdaq
+
+   - [Rendimiento anual vs Drawdown Nasdaq](/notebooks/0.6_annual_Return_drawdown/0.1_annual_return_drawdon_nasdaq.ipynb)
+   - [Dashboard](/notebooks/0.6_annual_Return_drawdown/annual_return_vs_drawdown.png)
 
 1. Analisis de la base de datos de Pinguinos
    - [Conteo y validación de datos.](/notebooks/0.1-EDA-penguins/0.1_count_validation_data.ipynb)
