@@ -27,7 +27,12 @@
    - [Dashboard](/notebooks/0.6_annual_Return_drawdown/annual_return_vs_drawdown.png)
 
 1. Analisis de la base de datos de Pinguinos
+
    - [Conteo y validación de datos.](/notebooks/0.1-EDA-penguins/0.1_count_validation_data.ipynb)
    - [Análisis estadístico.](/notebooks/0.1-EDA-penguins/0.2_statistic_analysis.ipynb)
    - [Análisis bivariado.](/notebooks/0.1-EDA-penguins/0.3_bivariate_analysis.ipynb)
    - [Dashboard estático y conclusiones.](/notebooks/0.1-EDA-penguins/0.4_static_dashboard.ipynb)
+
+1. Backtesting - DCA - BTC
+   - [Backtesting Aplicando DCA a BTC y otras Cryptos](/notebooks/0.7_Backtesting_DCA/0.1_backtesting_DCA_btc.ipynb)
+   - [Dashboard](/notebooks/0.7_Backtesting_DCA/Backtsting_DCA.png)
