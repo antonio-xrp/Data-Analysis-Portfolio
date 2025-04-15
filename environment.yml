@@ -6,29 +6,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - black
-  - invoke
-  - jupyter
-  - jupyterlab
-  - keras
-  - lightgbm
-  - matplotlib
-  - missingno
-  - nbdime
+  - python=3.10.4
+  - pip
   - numpy
   - pandas
-  - pandas-flavor
-  - pandas-profiling
-  - pip
-  - plotly
-  - pyjanitor
-  - pylint
-  - pyprojroot
-  - pyspark
-  - python=3.10.4
-  - python-dotenv
-  - scikit-learn
+  - matplotlib
   - seaborn
-  - statsmodels
-  - tensorflow
-  
+  - jupyter
+  - jupyterlab
