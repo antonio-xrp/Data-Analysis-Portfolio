@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bda0fd0f-2c82-4346-aee5-89bf717c3480" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/notebooks/0.1_data_analysis/0.1-EDA-penguins/0.1_count_validation_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/0.1_data_analysis/0.1-EDA-penguins/0.1_count_validation_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/0.1_data_analysis/0.1-EDA-penguins/0.2_statistic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/0.1_data_analysis/0.1-EDA-penguins/0.2_statistic_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.3_replace.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.3_replace.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.4_for.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.4_for.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.5_groupby.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.5_groupby.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.6_apply.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/0.4_python_methods/0.6_apply.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="34f7lthFh1wUeWhvC9rxvBDAFqq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda0fd0f-2c82-4346-aee5-89bf717c3480" name="Changes" comment="" />
+      <created>1761592926717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761592926717</updated>
+      <workItem from="1761592927969" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
